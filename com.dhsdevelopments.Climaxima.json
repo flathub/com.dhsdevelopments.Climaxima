@@ -110,7 +110,7 @@
             "name": "mcclim",
             "buildsystem": "simple",
             "sources": [
-                { "type": "git", "url": "https://github.com/McCLIM/McCLIM", "commit": "e0dafe84596a156d410dbed1254d3a038442921b" }
+                { "type": "git", "url": "https://github.com/McCLIM/McCLIM", "commit": "daf58f68f8691c7e2ed8fffd7da47998630e64da" }
             ],
             "build-options": {
                 "env": {
@@ -145,7 +145,7 @@
                 {
                     "type": "git",
                     "url": "https://git.code.sf.net/p/maxima/code",
-                    "commit": "0721ffcd43de13fd288362373edc9681929abed9"
+                    "commit": "76ea68da6fa4eddee13f5c7d5a0ed9cf6d7ac641"
                 }
             ],
             "build-options": {
@@ -164,7 +164,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/lokedhs/maxima-client",
-                    "commit": "3c198d28f5b036a7b584387a2e2480869026a664"
+                    "commit": "91e312980beb00ae25ba105a0904931a88b6b100"
                 },
                 { "type": "file", "path": "startup.lisp" },
                 { "type": "file", "path": "build.sh" }
