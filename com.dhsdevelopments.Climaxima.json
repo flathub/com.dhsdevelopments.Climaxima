@@ -110,7 +110,10 @@
             "name": "mcclim",
             "buildsystem": "simple",
             "sources": [
-                { "type": "git", "url": "https://github.com/McCLIM/McCLIM", "commit": "daf58f68f8691c7e2ed8fffd7da47998630e64da" }
+                {
+                    "type": "git",
+                    "url": "https://github.com/McCLIM/McCLIM",
+                    "commit": "daf58f68f8691c7e2ed8fffd7da47998630e64da" }
             ],
             "build-options": {
                 "env": {
