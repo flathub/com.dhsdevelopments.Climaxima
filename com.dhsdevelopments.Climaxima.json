@@ -148,7 +148,7 @@
                 {
                     "type": "git",
                     "url": "https://git.code.sf.net/p/maxima/code",
-                    "commit": "76ea68da6fa4eddee13f5c7d5a0ed9cf6d7ac641"
+                    "commit": "7aa098353573852ec254f4dbde8ae7c2dfb59211"
                 }
             ],
             "build-options": {
