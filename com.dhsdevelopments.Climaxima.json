@@ -174,7 +174,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/lokedhs/maxima-client",
-                    "commit": "2247b6d045b22c113f84a2f42a039a66a484a8cc"
+                    "commit": "b7859e1eb524503e29f737e71d071c40e09edd47"
                 },
                 { "type": "file", "path": "startup.lisp" },
                 { "type": "file", "path": "build.sh" }
