@@ -11,8 +11,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "http://prdownloads.sourceforge.net/sbcl/sbcl-2.0.11-x86-64-linux-binary.tar.bz2",
-                    "sha256": "b7e61bc6b8d238f8878e660bc0635e99c2ea1255bfd6153d702fe9a00f8138fd"
+                    "url": "http://prdownloads.sourceforge.net/sbcl/sbcl-2.1.7-x86-64-linux-binary.tar.bz2",
+                    "sha256": "4a09d891c2b5a0214bf6ddb348c53abfb540f192d552adb03a22271961a9b458"
                 },
                 { "type": "file", "path": "ql.tar.gz" },
                 { "type": "file", "path": "sbclrc" }

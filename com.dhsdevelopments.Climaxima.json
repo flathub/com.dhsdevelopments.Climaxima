@@ -11,8 +11,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "http://prdownloads.sourceforge.net/sbcl/sbcl-2.0.11-x86-64-linux-binary.tar.bz2",
-                    "sha256": "b7e61bc6b8d238f8878e660bc0635e99c2ea1255bfd6153d702fe9a00f8138fd"
+                    "url": "http://prdownloads.sourceforge.net/sbcl/sbcl-2.1.7-x86-64-linux-binary.tar.bz2",
+                    "sha256": "4a09d891c2b5a0214bf6ddb348c53abfb540f192d552adb03a22271961a9b458"
                 },
                 { "type": "file", "path": "ql.tar.gz" },
                 { "type": "file", "path": "sbclrc" }
@@ -119,7 +119,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/McCLIM/McCLIM",
-                    "commit": "6a9657e12fc0ad7b500116a8aec76358f68d524e"
+                    "commit": "a10c0eb52192fa31e7072b86f7770c0cb082533c"
                 }
             ],
             "build-options": {
@@ -155,7 +155,7 @@
                 {
                     "type": "git",
                     "url": "https://git.code.sf.net/p/maxima/code",
-                    "commit": "10ab0a2a35d7a8eeda6eb333ad5956068d1a0c0e"
+                    "commit": "dd14fa33d3277030f86217435b1753754a9e5b7f"
                 }
             ],
             "build-options": {
@@ -174,7 +174,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/lokedhs/maxima-client",
-                    "commit": "a6337aa2c387513476695b671581e36e265bac3e"
+                    "commit": "edec4a7e516310b37660838accae0c54c4cc697e"
                 },
                 { "type": "file", "path": "startup.lisp" },
                 { "type": "file", "path": "build.sh" }
