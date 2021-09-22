@@ -155,7 +155,7 @@
                 {
                     "type": "git",
                     "url": "https://git.code.sf.net/p/maxima/code",
-                    "commit": "331e83bad780fd7c462bb153b22f08ea5a88ea68"
+                    "commit": "27066b39dddaf0df8b6c464857f6505dfdc183b6"
                 }
             ],
             "build-options": {
@@ -174,7 +174,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/lokedhs/maxima-client",
-                    "commit": "ed7175e3aa006101a832f9e29deb276ae7284234"
+                    "commit": "163421fcd1d01b5dee88fd68d1d8613b501f8278"
                 },
                 { "type": "file", "path": "startup.lisp" },
                 { "type": "file", "path": "build.sh" }
